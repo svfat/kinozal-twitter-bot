@@ -1,8 +1,6 @@
 #coding: utf-8
 import urllib
-# подключили библиотеку urllib
 from lxml import html
-# подключили библиотеку lxml
 import sys
 import os
 import re
